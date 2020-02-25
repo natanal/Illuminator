@@ -1,2 +1,0 @@
-# Illuminator
-Senior Design
